@@ -21,7 +21,8 @@ publicly. This will allow researchers to study the impact of filters on facial f
   - **Please cite reference below in your publications if you make use of the data of this repository**
 
 # People & Contact
-  - [Shubham](https://scholar.google.com/citations?view_op=list_works&hl=en&user=h4sonvYAAAAJ) (contact person).
+  - [Shubham](https://scholar.google.com/citations?view_op=list_works&hl=en&user=h4sonvYAAAAJ)
+  - [Yash Sethia](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=4&user=_YSflJcAAAAJ)
 
 # References
   Paper accepted in [DeLTA 2023](https://delta.scitevents.org/Home.aspx). The citation will be avaiable soon.
