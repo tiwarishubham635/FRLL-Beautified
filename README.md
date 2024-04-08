@@ -25,4 +25,28 @@ publicly. This will allow researchers to study the impact of filters on facial f
   - [Yash Sethia](https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=4&user=_YSflJcAAAAJ)
 
 # References
-  Paper accepted in [DeLTA 2023](https://delta.scitevents.org/Home.aspx). The citation will be avaiable soon.
+  Paper accepted in [DeLTA 2023](https://delta.scitevents.org/Home.aspx)
+
+# Citation
+
+Please cite this dataset in your publications if it helps your research. Here is the BibTex entry:
+```BibTeX
+@inproceedings{shubhamtiwari2023frllbeautified,
+  author       = {Shubham Tiwari and
+                  Yash Sethia and
+                  Ashwani Tanwar and
+                  Ritesh Kumar and
+                  Rudresh Dwivedi},
+  title        = {FRLL-Beautified: {A} Dataset of Fun Selfie Filters with Facial Attributes},
+  booktitle    = {Deep Learning Theory and Applications - 4th International Conference,
+                  DeLTA 2023, Rome, Italy, July 13-14, 2023, Proceedings},
+  series       = {Communications in Computer and Information Science},
+  volume       = {1875},
+  pages        = {456--465},
+  publisher    = {Springer},
+  year         = {2023},
+  url          = {https://doi.org/10.1007/978-3-031-39059-3\_30},
+  doi          = {10.1007/978-3-031-39059-3\_30},
+  timestamp    = {Sat, 30 Sep 2023 09:38:49 +0200}
+}
+```
